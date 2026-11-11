@@ -1,5 +1,5 @@
 {
-  "version": "0.2.22",
+  "version": "0.2.23",
   "description": "Bodega One Code — local-first AI coding agent (TUI + headless). Spawns a bundled backend; no cloud required.",
   "homepage": "https://github.com/Mayimbe07/Bodegaone-CLI",
   "license": "BUSL-1.1",
@@ -10,8 +10,8 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://github.com/BodegaoneAI/bodegaone-cli-releases/releases/download/v0.2.22/bodega-windows-amd64.zip",
-      "hash": "22fb5381566644e530819f398d10b6328100dd012df5fa1d1249d367ab9d2045"
+      "url": "https://github.com/BodegaoneAI/bodegaone-cli-releases/releases/download/v0.2.23/bodega-windows-amd64.zip",
+      "hash": "bee78fa8d886f68ea6396f496a49050d73d8595a531a94934d0734f0bf3ca361"
     }
   },
   "bin": "bin\\bodega.exe",
